@@ -18,5 +18,5 @@ int main() {
   }
 
   printf("This is the sum of %d members S=%.8f\n", n, S);
-  return 0;
 }
+// Видалений рядок "return 0;"
